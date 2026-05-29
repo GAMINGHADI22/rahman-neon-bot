@@ -4,7 +4,7 @@ import yt_dlp
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, CallbackQueryHandler, filters, ContextTypes
 
-BOT_TOKEN = os.getenv("8566117526:AAFCdNS_0YMiqvWVv0KuI9LeBDtPv1Trwew", "8566117526:AAFCdNS_0YMiqvWVv0KuI9LeBDtPv1Trwew")
+BOT_TOKEN = os.getenv("8566117526:AAEVDyvBS46DSEattc8Y_X_-hx54rKC84LY", "8566117526:AAEVDyvBS46DSEattc8Y_X_-hx54rKC84LY")
 FAST_OPTS = {
     "quiet": True,
     "no_warnings": True,
